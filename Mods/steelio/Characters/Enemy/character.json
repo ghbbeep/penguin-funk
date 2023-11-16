@@ -6,10 +6,10 @@
     "y":-100,
     "animations":{
         "idle":{"frames":"13"},
-        "up":{"frames":"60"},
-        "down":{"frames":"16"},
-        "left":{"frames":"16"},
-        "right":{"frames":"19"},
+        "up":{"frames":"14"},
+        "down":{"frames":"14"},
+        "left":{"frames":"14"},
+        "right":{"frames":"14"},
         "seconds per frame":0.025
     },
     "offsets":{
@@ -19,5 +19,5 @@
         "left":{"x":-25,"y":15},
         "right":{"x":30,"y":25}
     },
-    "healthColor":"#af66ce"
+    "healthColor":"#b93e54"
 }
